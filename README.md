@@ -9,7 +9,7 @@
 **——→** Sinta-se à vontade para entrar em contato comigo pelas redes abaixo.
 
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/19971263848)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/SEUIDAQUI)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/eduardo12b)
 
 
 ## 🎓 Minhas Skills
