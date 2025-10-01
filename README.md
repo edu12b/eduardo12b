@@ -1,6 +1,7 @@
 # 👋 Olá, 
 ## ✨ Sobre mim
 **——→** Me chamo **Abimael Cristian**, tenho 19 anos e sou apaixonado por tecnologia, desafios e aprendizado contínuo. Minha jornada profissional me levou por diversos caminhos, o que me proporcionou uma base sólida em várias áreas da tecnologia.
+
 ⏺ No meu tempo livre, gosto de configurar comunidades de minecraft (servidores), andar de bicileta (Pratico calistenia).
 
 
