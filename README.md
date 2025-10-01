@@ -7,6 +7,7 @@
 
 ## 🔎 Vamos conversar?
 **——→** Sinta-se à vontade para entrar em contato comigo pelas redes abaixo:
+
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/19971263848)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/SEUIDAQUI)
 
@@ -14,6 +15,7 @@
 ## 🎓 Minhas Skills
 
 ### 🔹 Linguagens e Tecnologias
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
